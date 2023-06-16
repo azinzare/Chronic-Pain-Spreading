@@ -1,15 +1,15 @@
 # **Chronic-Pain-Spreading**
-### [A pronostic risk score for development and spread of chronic pain]
-(https://www.medrxiv.org/content/10.1101/2022.07.22.22277850v1)
-###### Christophe Tanguay-Sabourin, Matt Fillingim, Marc Parisien, Gianluca V Guglietti, Azin Zare, Jax Norman,<br/> Ronrick Da-ano, Jordi Perez, Scott J Thompson, Marc O Martel, Mathieu Roy, Luda Diatchenko, Etienne Vachon-Presseau
+### [A prognostic risk score for development and spread of chronic pain]
+(https://doi.org/10.1038/s41591-023-02430-4)
+###### Christophe Tanguay-Sabourin, Matt Fillingim, Gianluca V Guglietti, Azin Zare, Marc Parisien, Jax Norman, Hilary Sweatman, Ronrick Da-ano, Eveliina Heikkala, PREVENT-AD Research Group, Jordi Perez, Jaro Karppinen, Sylvia Villeneuve, Scott J Thompson, Marc O Martel, Mathieu Roy, Luda Diatchenko, Etienne Vachon-Presseau
 
 # **Background**
 This paper is a comprehensive effort to integrate features from different disciplines to better
-understand, characterize, and predict chronic pain conditions.
+understand, characterize and predict chronic pain conditions.
 
 Study highlights:
 
-- We developed a psychosocial model using data from the UK Biobank (n=500k) capable of
+- We developed a psychosocial model using data from the UK Biobank (n= ~500k) capable of
 predicting and characterizing the longitudinal development of chronic pain in healthy individuals
 and its spreading or recovery in patients.
 - The psychosocial model was found to be more closely linked to
